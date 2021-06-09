@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
-- 👨‍💻 My website is available at **[My Website](https://0xdedinfosec.github.io/)**
+- 👨‍💻 My website is available at **[0xdedinfosec.github.io](https://0xdedinfosec.github.io/)**
 
 - 📫 How to reach me **https://t.me/DEDSEC420**
 
