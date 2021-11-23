@@ -12,6 +12,8 @@
 
 - 👨‍💻 My website is available at **[0xdedinfosec.github.io](https://0xdedinfosec.github.io/)**
 
+- 👨‍💻 My new website is available at **[0xdedinfosec.vercel.app](https://0xdedinfosec.vercel.app/)**
+
 - 📫 How to reach me **https://t.me/DEDSEC420**
 
 - ⚡ Fun fact **I play games very much**
